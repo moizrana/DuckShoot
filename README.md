@@ -15,4 +15,6 @@ This is a classic duck shooting game developed in assembly language. The objecti
 - **Assembler**: Ensure you have an assembler MASM installed.
 - **Emulator**: Use an emulator like DOSBox to run the game.
 
+## Screenshots
+
 ![Game Screenshot](Images/Screenshot1.png)
