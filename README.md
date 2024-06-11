@@ -1,4 +1,4 @@
-# Assembly Duck Shooting Game
+# Duck Shooting Game in Assembly
 
 This is a classic duck shooting game developed in assembly language. The objective of the game is to shoot the ducks flying across the screen before they escape. The game includes multiple levels of difficulty, intuitive controls, and a scoring system.
 
