@@ -18,5 +18,7 @@ This is a classic duck shooting game developed in assembly language. The objecti
 ## Screenshots
 
 ![Game Screenshot](Images/Screenshot1.png)
+
 ![Game Screenshot](Images/Screenshot2.png)
+
 ![Game Screenshot](Images/Screenshot3.png)
