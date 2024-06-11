@@ -12,7 +12,7 @@ This is a classic duck shooting game developed in assembly language. The objecti
 
 ### Prerequisites
 
-- **Assembler**: Ensure you have an assembler like NASM installed.
+- **Assembler**: Ensure you have an assembler MASM installed.
 - **Emulator**: Use an emulator like DOSBox to run the game.
 
 
